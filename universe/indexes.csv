@@ -1,0 +1,55 @@
+﻿INDEX_TYPE,INDEX_NAME,URL
+BROAD_INDEX,NIFTY 50,https://archives.nseindia.com/content/indices/ind_nifty50list.csv
+BROAD_INDEX,NIFTY NEXT 50,https://archives.nseindia.com/content/indices/ind_niftynext50list.csv
+BROAD_INDEX,NIFTY 100,https://archives.nseindia.com/content/indices/ind_nifty100list.csv
+BROAD_INDEX,NIFTY 200,https://archives.nseindia.com/content/indices/ind_nifty200list.csv
+BROAD_INDEX,NIFTY TOTAL MARKET,https://archives.nseindia.com/content/indices/ind_niftytotalmarket_list.csv
+BROAD_INDEX,NIFTY 500,https://archives.nseindia.com/content/indices/ind_nifty500list.csv
+BROAD_INDEX,NIFTY MIDCAP 150,https://archives.nseindia.com/content/indices/ind_niftymidcap150list.csv
+BROAD_INDEX,NIFTY MIDCAP 50,https://archives.nseindia.com/content/indices/ind_niftymidcap50list.csv
+BROAD_INDEX,NIFTY MIDCAP SELECT,https://archives.nseindia.com/content/indices/ind_niftymidcapselect_list.csv
+BROAD_INDEX,NIFTY MIDCAP 100,https://archives.nseindia.com/content/indices/ind_niftymidcap100list.csv
+BROAD_INDEX,NIFTY SMALL CAP 250,https://archives.nseindia.com/content/indices/ind_niftysmallcap250list.csv
+BROAD_INDEX,NIFTY SMALL CAP 50,https://archives.nseindia.com/content/indices/ind_niftysmallcap50list.csv
+BROAD_INDEX,NIFTY SMALLCAP 100,https://archives.nseindia.com/content/indices/ind_niftysmallcap100list.csv
+BROAD_INDEX,NIFTY MICROCAP 250,https://archives.nseindia.com/content/indices/ind_niftymicrocap250_list.csv
+BROAD_INDEX,NIFTY LARGEMIDCAP 250,https://archives.nseindia.com/content/indices/ind_niftylargemidcap250list.csv
+BROAD_INDEX,NIFTY MIDSMALLCAP 400,https://archives.nseindia.com/content/indices/ind_niftymidsmallcap400list.csv
+SECTORAL_INDEX,NIFTY AUTO,https://archives.nseindia.com/content/indices/ind_niftyautolist.csv
+SECTORAL_INDEX,NIFTY BANK,https://archives.nseindia.com/content/indices/ind_niftybanklist.csv
+SECTORAL_INDEX,NIFTY FINANCIAL SERVICES,https://archives.nseindia.com/content/indices/ind_niftyfinancelist.csv
+SECTORAL_INDEX,NIFTY FMCG,https://archives.nseindia.com/content/indices/ind_niftyfmcglist.csv
+SECTORAL_INDEX,NIFTY HEALTHCARE,https://archives.nseindia.com/content/indices/ind_niftyhealthcarelist.csv
+SECTORAL_INDEX,NIFTY IT,https://archives.nseindia.com/content/indices/ind_niftyitlist.csv
+SECTORAL_INDEX,NIFTY MEDIA,https://archives.nseindia.com/content/indices/ind_niftymedialist.csv
+SECTORAL_INDEX,NIFTY METAL,https://archives.nseindia.com/content/indices/ind_niftymetallist.csv
+SECTORAL_INDEX,NIFTY PHARMA,https://archives.nseindia.com/content/indices/ind_niftypharmalist.csv
+SECTORAL_INDEX,NIFTY PRIVATE BANK,https://archives.nseindia.com/content/indices/ind_nifty_privatebanklist.csv
+SECTORAL_INDEX,NIFTY PSU BANK,https://archives.nseindia.com/content/indices/ind_niftypsubanklist.csv
+SECTORAL_INDEX,NIFTY REALTY,https://archives.nseindia.com/content/indices/ind_niftyrealtylist.csv
+SECTORAL_INDEX,NIFTY CONSUMER DURABLES,https://archives.nseindia.com/content/indices/ind_niftyconsumerdurableslist.csv
+SECTORAL_INDEX,NIFTY OIL AND GAS INDEX,https://archives.nseindia.com/content/indices/ind_niftyoilgaslist.csv
+THEMATIC_INDEX,NIFTY COMMODITIES,https://archives.nseindia.com/content/indices/ind_niftycommoditieslist.csv
+THEMATIC_INDEX,NIFTY CPSE,https://archives.nseindia.com/content/indices/ind_niftycpselist.csv
+THEMATIC_INDEX,NIFTY ENERGY,https://archives.nseindia.com/content/indices/ind_niftyenergylist.csv
+THEMATIC_INDEX,NIFTY INDIA CONSUMPTION,https://archives.nseindia.com/content/indices/ind_niftyconsumptionlist.csv
+THEMATIC_INDEX,NIFTY INDIA DEFENCE,https://archives.nseindia.com/content/indices/ind_niftyindiadefence_list.csv
+THEMATIC_INDEX,NIFTY INDIA DIGITAL,https://archives.nseindia.com/content/indices/ind_niftyindiadigital_list.csv
+THEMATIC_INDEX,NIFTY INDIA MANUFACTURING,https://archives.nseindia.com/content/indices/ind_niftyindiamanufacturing_list.csv
+THEMATIC_INDEX,NIFTY INFRASTRUCTURE,https://archives.nseindia.com/content/indices/ind_niftyinfralist.csv
+THEMATIC_INDEX,NIFTY MIDSMALL INDIA CONSUMPTION,https://archives.nseindia.com/content/indices/ind_niftymidsmallindiaconsumption_list.csv
+THEMATIC_INDEX,NIFTY MNC,https://archives.nseindia.com/content/indices/ind_niftymnclist.csv
+THEMATIC_INDEX,NIFTY MOBILITY,https://archives.nseindia.com/content/indices/ind_niftymobility_list.csv
+THEMATIC_INDEX,NIFTY PSE,https://archives.nseindia.com/content/indices/ind_niftypselist.csv
+THEMATIC_INDEX,NIFTY NON-CYCLICAL CONSUMER INDEX,https://archives.nseindia.com/content/indices/ind_niftynon-cyclicalconsumer_list.csv
+THEMATIC_INDEX,NIFTY SERVICES SECTOR,https://archives.nseindia.com/content/indices/ind_niftyservicelist.csv
+THEMATIC_INDEX,NIFTY TRANSPORTATION & LOGISTICS,https://archives.nseindia.com/content/indices/ind_niftytransportationandlogistics_list.csv
+STRATEGY_INDEX,NIFTY 100 LOW VOLATILITY 30,https://archives.nseindia.com/content/indices/ind_Nifty100LowVolatility30list.csv
+STRATEGY_INDEX,NIFTY200 MOMENTUM 30,https://archives.nseindia.com/content/indices/ind_nifty200Momentum30_list.csv
+STRATEGY_INDEX,NIFTY100 ALPHA 30,https://archives.nseindia.com/content/indices/ind_nifty100Alpha30list.csv
+STRATEGY_INDEX,NIFTY ALPHA 50,https://archives.nseindia.com/content/indices/ind_nifty_Alpha_Index.csv
+STRATEGY_INDEX,NIFTY HIGH BETA 50,https://archives.nseindia.com/content/indices/nifty_High_Beta50_Index.csv
+STRATEGY_INDEX,NIFTY100 QUALITY 30,https://archives.nseindia.com/content/indices/ind_nifty100Quality30list.csv
+STRATEGY_INDEX,NIFTY MIDCAP150 MOMENTUM 50,https://archives.nseindia.com/content/indices/ind_niftymidcap150momentum50_list.csv
+STRATEGY_INDEX,NIFTY MIDCAP150 QUALITY 50,https://archives.nseindia.com/content/indices/ind_niftymidcap150quality50list.csv
+STRATEGY_INDEX,NIFTY200 QUALITY 30,https://archives.nseindia.com/content/indices/ind_nifty200Quality30_list.csv
